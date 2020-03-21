@@ -9,10 +9,8 @@ Tutorial ?
 
 - Extract in desktop or your disk like local C, D 
 
-- type password
-
 - click idmanxxxbuild.exe and just next until done , do not open idm 
 
 - now open the patch and crack 
 
-Enjoy -- 
+Enjoy :v Salam OKE OCE
