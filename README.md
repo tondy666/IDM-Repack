@@ -1,1 +1,18 @@
 # IDM-Repack
+Bypass License or 30 days trial with patch
+
+Tutorial ?
+
+- Download file
+
+- Turn off your antivirus , firewall , windows defender ( don't worry its okay, you can exclude kmspico next time if you want to turn on your defender/firewall again )
+
+- Extract in desktop or your disk like local C, D 
+
+- type password
+
+- click idmanxxxbuild.exe and just next until done , do not open idm 
+
+- now open the patch and crack 
+
+Enjoy -- 
