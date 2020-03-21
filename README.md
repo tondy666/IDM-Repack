@@ -5,7 +5,7 @@ Tutorial ?
 
 - Download file
 
-- Turn off your antivirus , firewall , windows defender ( don't worry its okay, you can exclude kmspico next time if you want to turn on your defender/firewall again )
+- Turn off your antivirus , firewall , windows defender ( don't worry its okay, you can turn on your defender/firewall again )
 
 - Extract in desktop or your disk like local C, D 
 
